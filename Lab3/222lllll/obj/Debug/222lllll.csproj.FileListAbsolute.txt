@@ -1,0 +1,45 @@
+D:\Visual Studio 2015\Projects\222lllll\bin\Debug\222lllll.exe.config
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\222lllll.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\_222lllll.Form1.resources
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\222lllll.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\222lllll\bin\Debug\222lllll.exe
+D:\Visual Studio 2015\Projects\222lllll\bin\Debug\222lllll.pdb
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\222lllll.exe
+D:\Visual Studio 2015\Projects\222lllll\obj\Debug\222lllll.pdb
+C:\Users\Hom\Desktop\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\Hom\Desktop\222lllll\obj\Debug\222lllll.exe
+C:\Users\Hom\Desktop\222lllll\obj\Debug\222lllll.pdb
+C:\Users\Hom\Desktop\222lllll\obj\Debug\222lllll.csprojResolveAssemblyReference.cache
+C:\Users\Hom\Desktop\222lllll\obj\Debug\_222lllll.Form1.resources
+C:\Users\Hom\Desktop\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\Hom\Desktop\222lllll\obj\Debug\222lllll.csproj.GenerateResource.Cache
+C:\Users\Hom\Desktop\222lllll\bin\Debug\222lllll.exe
+C:\Users\Hom\Desktop\222lllll\bin\Debug\222lllll.pdb
+C:\Users\user\Desktop\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\user\Desktop\222lllll\obj\Debug\222lllll.exe
+C:\Users\user\Desktop\222lllll\obj\Debug\222lllll.pdb
+C:\Users\user\Desktop\222lllll\bin\Debug\222lllll.exe
+C:\Users\user\Desktop\222lllll\bin\Debug\222lllll.pdb
+C:\Users\user\Desktop\222lllll\obj\Debug\222lllll.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\222lllll\obj\Debug\_222lllll.Form1.resources
+C:\Users\user\Desktop\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\user\Desktop\222lllll\obj\Debug\222lllll.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\3лаба\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\222lllll.exe
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\222lllll.pdb
+C:\Users\user\Desktop\3лаба\222lllll\bin\Debug\222lllll.exe
+C:\Users\user\Desktop\3лаба\222lllll\bin\Debug\222lllll.pdb
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\222lllll.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\_222lllll.Form1.resources
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\user\Desktop\3лаба\222lllll\obj\Debug\222lllll.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\_222lllll.Form1.resources
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.pdb

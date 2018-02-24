@@ -1,0 +1,8 @@
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\bin\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\2 курс\ЭговТП\3лаба\222lllll\obj\Debug\Lab3.Form1.resources
