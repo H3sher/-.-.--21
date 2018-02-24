@@ -1,0 +1,17 @@
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\bin\Debug\222lllll.exe.config
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\bin\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\bin\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\obj\Debug\_222lllll.Form1.resources
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\obj\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\ЭговТП\Новая папка\222lllll\obj\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\ЭговТП\lab2\bin\Debug\222lllll.exe.config
+C:\Users\Михаил\Desktop\ЭговТП\lab2\bin\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\ЭговТП\lab2\bin\Debug\222lllll.pdb
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\_222lllll.Properties.Resources.resources
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\222lllll.exe
+C:\Users\Михаил\Desktop\ЭговТП\lab2\obj\Debug\222lllll.pdb
